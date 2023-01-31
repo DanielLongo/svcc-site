@@ -1,3 +1,9 @@
+---
+title: "Ishan Gaur"
+date: 2023-01-31T22:30:10+08:00
+draft: true
+---
+
 Hi,
 
 I’m a scientist and engineer excited by the ways computation allows us to take better decisions in experimental biology. Currently, I do research in generative modeling of sub-cellular protein localizations at the [Lundberg Lab](https://cellprofiling.org/).
