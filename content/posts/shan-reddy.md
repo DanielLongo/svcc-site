@@ -15,8 +15,8 @@ Things I'm also involved in and spending time on (in order of priority, updated 
 - **Investing**. [Marriage Pact](https://www.marriagepact.com), [TuMeke.io]([https://www.tumeke.io), [MoonPay](https://www.moonpay.com), [Anduril](https://www.anduril.com), [Integral](https://useintegral.com/), [Fizz](https://fizzsocial.app/)
 - **Educational equity**. Helping to establish [K-12 schooling](https://www.promisevillageacademy.org/) for Maasai children in Tanzania.
 
-**Random stuff I love spending time on**
-[Specialty coffee](https://www.reddytobrew.com), [the NFL draft](https://stanforddaily.com/author/rsreddy/), geography, LoTR, DeSci
+**Random stuff I love spending time on**:
+[specialty coffee](https://www.reddytobrew.com), [the NFL draft](https://stanforddaily.com/author/rsreddy/), geography, LoTR, DeSci
 
 **Reach me**
 [LinkedIn](https://www.linkedin.com/in/shan-reddy/), [@rshanreddy](https://www.twitter.com/rshanreddy) and rsreddy@stanford.edu. I love cold emails.
