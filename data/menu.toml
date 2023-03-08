@@ -21,6 +21,6 @@ title = "current members"
   show_more_url = "posts"
 
   [[entries]]
-  title = 'Follow our quartly update'
+  title = 'Follow our quarterly update'
   [[entries.entries]]
   title = '<form method="POST" action="https://us-central1-svcc-379921.cloudfunctions.net/subscribe"><input name="email" placeholder="email"/><input type="submit"/></form>'
