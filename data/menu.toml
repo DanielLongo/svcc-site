@@ -16,6 +16,7 @@ title = "current members"
 
   [entries.post_list]
   limit = 20
+  section="posts"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
