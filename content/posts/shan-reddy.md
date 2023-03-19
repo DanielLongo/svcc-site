@@ -12,7 +12,7 @@ Things I'm also involved in and spending time on (in order of priority, updated 
 - **Senior year**. [POMDPs](https://cs238.stanford.edu), [tech ethics](https://cs182.stanford.edu), psycholinguistics, perceptual neuroscience, Iranian cuisine.
 - **Reading**. Across genres, recently [Dostoyevsky and some non-fiction](https://www.goodreads.com/user/show/101516811-shan-reddy).
 - **This wonderful club**. We aim to cultivate the highest-potential future technologists at Stanford.
-- **Investing**. [Marriage Pact](https://www.marriagepact.com), [TuMeke.io]([https://www.tumeke.io), [MoonPay](https://www.moonpay.com), [Anduril](https://www.anduril.com), [Integral](https://useintegral.com/), [Fizz](https://fizzsocial.app/)
+- **Investing**. [Marriage Pact](https://www.marriagepact.com), [TuMeke.io]([https://www.tumeke.io), [MoonPay](https://www.moonpay.com), [Anduril](https://www.anduril.com), [Integral](https://useintegral.com/), [Fizz](https://fizzsocial.app/), [Cadoo](https://https://www.cadoo.io/)
 - **Educational equity**. Helping to establish [K-12 schooling](https://www.promisevillageacademy.org/) for Maasai children in Tanzania.
 
 **Random stuff I love spending time on**:
