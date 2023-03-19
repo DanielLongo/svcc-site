@@ -6,7 +6,7 @@ draft: true
 
 Hi,
 
-I currently live in Palo Alto and study [symbolic systems](https://www.symsys.stanford.edu). I grew up in Las Vegas and previously worked at [Cometeer](cometeer.com).
+I currently live in Palo Alto and study [symbolic systems](https://www.symsys.stanford.edu). I grew up in Las Vegas and previously worked at [Cometeer](https://www.cometeer.com).
 
 Things I'm also involved in and spending time on (in order of priority, updated Jan. 2023):
 - **Senior year**. [POMDPs](https://cs238.stanford.edu), [tech ethics](https://cs182.stanford.edu), psycholinguistics, perceptual neuroscience, Iranian cuisine.
