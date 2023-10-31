@@ -7,4 +7,5 @@ draft: true
 Hi! I'm studying Computer Science (BS) and Mechanical Engineering (MS) at Stanford, with a focus on the intersection of technology and biology. 
 Currently, I work on population and AI genetics research.
 
-Find out more at maylevin.com(maylevin.com)
+Find out more at [maylevin.com](http://maylevin.com)
+
