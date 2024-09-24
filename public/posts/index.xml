@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 May 2024 22:30:10 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ali Hindy</title>
+      <link>//localhost:1313/posts/ali-hindy/</link>
+      <pubDate>Fri, 24 May 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/ali-hindy/</guid>
+      <description>&lt;p&gt;Hey, I’m Ali. I’m a current coterm studying CS and Math, with a focus on building intelligent systems that can understand the world around them. My past work includes multi modality, computer vision, and out of distribution data.&lt;/p&gt;&#xA;&lt;p&gt;Find out more at &lt;a href=&#34;https://ali.hindy.co/&#34;&gt;ali.hindy.co&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brandon Snider</title>
+      <link>//localhost:1313/posts/brandon-snider/</link>
+      <pubDate>Mon, 29 Apr 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/brandon-snider/</guid>
+      <description>&lt;p&gt;Hey — I’m Brandon.&lt;/p&gt;&#xA;&lt;p&gt;I grew up surfing, kiteboarding, and coding in Cape Town, South Africa. Before Stanford, I built a suite of market research and analytics tools for e-commerce brands, which grew into a bootstrapped SaaS business with 10,000+ users and $2M ARR, before I sold it.&lt;/p&gt;&#xA;&lt;p&gt;For two whirlwind years, I lived in and worked from Mauritius — a tiny tropical island just east of Madagascar where I got hooked on fiery foods, immersed myself in nature, and (of course) shipped like crazy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daniel Longo (co-pres)</title>
+      <link>//localhost:1313/posts/daniel-longo/</link>
+      <pubDate>Wed, 24 Apr 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/daniel-longo/</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;&#xA;&lt;p&gt;I’m a technical undergrad with a passion for data-enabled products leveraging ML.&lt;/p&gt;&#xA;&lt;p&gt;Some of the projects and companies I&amp;rsquo;ve worked on -&amp;gt; &lt;a href=&#34;https://www.longo.land&#34;&gt;www.longo.land&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ella Moore</title>
+      <link>//localhost:1313/posts/ella-moore/</link>
+      <pubDate>Fri, 29 Mar 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/ella-moore/</guid>
+      <description>&lt;p&gt;Hi there,&lt;/p&gt;&#xA;&lt;p&gt;I’m Ella! I’m studying Biomedical Computation (Cellular/Molecular track) with a lifelong mission to address unmet clinical needs via entrepreneurship. I got my first taste of VC on the Bio team at Insight Partners and loved it so much that I’ll be returning to Insight this summer.&lt;/p&gt;&#xA;&lt;p&gt;Currently:&lt;/p&gt;&#xA;&lt;p&gt;Co-founding Wheal, a project my team and I spun out of the Chem-H Undergraduate Entrepreneurship Program&#xA;Working at the intersection of neuroscience and immunology in the Barron Lab&#xA;Investigating the thermostability of lipoproteins in the Sharaf Lab&#xA;Co-leading the volunteer team at Stanford Planned Parenthood&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kenny Oseleononmen (co-pres)</title>
+      <link>//localhost:1313/posts/kenny-oseleononmen/</link>
+      <pubDate>Thu, 29 Feb 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/kenny-oseleononmen/</guid>
+      <description>&lt;p&gt;Hey I&amp;rsquo;m Kenny,&lt;/p&gt;&#xA;&lt;p&gt;I grew up in Lagos Nigeria and I&amp;rsquo;m studying computer science. After a couple stints NVIDIA, Meta, Microsoft, I became interested in smaller companies with outsized impact, an interest that led me to Pinecone.&#xA;Currently, I’m learning and building and learning by building.&#xA;Always down for a chat so reach out to me on &lt;a href=&#34;https://linkedin.com/in/kennyosele&#34;&gt;linkedin&lt;/a&gt; or &lt;a href=&#34;mailto:oseleonose@gmail.com&#34;&gt;oseleonose@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ananth Bell</title>
+      <link>//localhost:1313/posts/ananth/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/ananth/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ananth-veluvali/&#34;&gt;https://www.linkedin.com/in/ananth-veluvali/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ariane Lee</title>
+      <link>//localhost:1313/posts/ariane-lee/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/ariane-lee/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/arianelee/&#34;&gt;https://www.linkedin.com/in/arianelee/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jonathan Cosgrove</title>
+      <link>//localhost:1313/posts/jonathan/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/jonathan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jonathan-cosgrove/&#34;&gt;https://www.linkedin.com/in/jonathan-cosgrove/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Koren Gilbai</title>
+      <link>//localhost:1313/posts/koren/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/koren/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/koren-gilbai-87b597314/&#34;&gt;https://www.linkedin.com/in/koren-gilbai-87b597314/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Okezue Bell</title>
+      <link>//localhost:1313/posts/okezue/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/okezue/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/okezuebell/&#34;&gt;https://www.linkedin.com/in/okezuebell/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Peyton Klein</title>
+      <link>//localhost:1313/posts/peyton/</link>
+      <pubDate>Mon, 29 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/peyton/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.peytonklein.com/&#34;&gt;https://www.peytonklein.com/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eliza Sandell</title>
+      <link>//localhost:1313/posts/eliza/</link>
+      <pubDate>Mon, 22 Jan 2024 22:30:10 +0800</pubDate>
+      <guid>//localhost:1313/posts/eliza/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eliza-sandell-17a927168/&#34;&gt;https://www.linkedin.com/in/eliza-sandell-17a927168/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
