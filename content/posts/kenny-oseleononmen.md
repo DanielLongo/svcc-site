@@ -1,7 +1,7 @@
 ---
 title: "Kenny Oseleononmen (co-pres)"
 date: 2024-02-29T22:30:10+08:00
-draft: false
+draft: true
 ---
 
 Hey I'm Kenny,

@@ -1,7 +1,7 @@
 ---
 title: "Brandon Snider"
 date: 2024-04-29T22:30:10+08:00
-draft: false
+draft: true
 ---
 
 Hey — I’m Brandon.
