@@ -15,6 +15,7 @@
 {{- end -}}
 
 {{- $posts = (where $posts "Draft" false) -}}
+{{- $posts = $posts.ByTitle -}}
 
 {{- $limit_exceeded:= "" -}}
 {{- if (and .limit (gt (len $posts) .limit)) -}}
