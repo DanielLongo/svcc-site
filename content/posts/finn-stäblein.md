@@ -1,6 +1,6 @@
 ---
 title: "Finn Stäblein (co-pres)"
-date: 2024-11-02T11:30:00+08:00
+date: 2024-10-01T11:30:00+08:00
 draft: false
 ---
 Hey, I'm Finn.
