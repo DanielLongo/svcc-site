@@ -16,6 +16,8 @@
 
 {{- $posts = (where $posts "Draft" false) -}}
 {{- $posts = $posts.ByTitle -}}
+{{- $officers := (where $posts "Weight" "gt" 0).ByWeight -}}
+{{- $posts = $officers | append (where $posts "Weight" 0) -}}
 
 {{- $limit_exceeded:= "" -}}
 {{- if (and .limit (gt (len $posts) .limit)) -}}
@@ -32,7 +34,11 @@
         {{- range $post := $posts -}}
         <li>
             <!-- <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span> -->
-            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>
+            {{- with $post.Params.linkedin }}
+            <a href="{{ . }}" target="_blank" rel="noopener">{{ $post.Title }}</a>
+            {{- else }}
+            {{ $post.Title }}
+            {{- end }}
         </li>
         {{ end }}
         {{- if and .show_more $limit_exceeded }}
