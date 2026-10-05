@@ -2,5 +2,7 @@
 title: "Zeyneb Kaya"
 date: 2026-10-01T11:30:00+08:00
 draft: false
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/zeyneb-kaya/"
 ---
+
+[https://www.linkedin.com/in/zeyneb-kaya/](https://www.linkedin.com/in/zeyneb-kaya/)
