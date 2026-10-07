@@ -1,5 +1,12 @@
 [[entries]]
-title = "Current members"
+title = "about"
+
+  [[entries.entries]]
+  title = "tight-knit group of undergraduate student founders, investors, and builders"
+
+
+[[entries]]
+title = "current members"
 
   [entries.post_list]
   limit = 20
