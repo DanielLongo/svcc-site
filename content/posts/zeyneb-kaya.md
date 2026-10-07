@@ -1,10 +1,8 @@
 ---
 title: "Zeyneb Kaya"
-date: 2025-10-01T11:30:00+08:00
+date: 2026-10-01T11:30:00+08:00
 draft: false
+linkedin: "https://www.linkedin.com/in/zeyneb-kaya/"
 ---
-Hey, 
 
-I'm Zeyneb, a CS and Math student working broadly on developing robust and efficient ML algorithms. I also like cats (and naming them after theory terms). 
-
-Would always love to chat—you can find me at zeynebnk.com. 
+[https://www.linkedin.com/in/zeyneb-kaya/](https://www.linkedin.com/in/zeyneb-kaya/)

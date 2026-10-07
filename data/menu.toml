@@ -2,13 +2,7 @@
 title = "about"
 
   [[entries.entries]]
-  title = "tight-knit group of undergradate student founders, investors, and builders"
-
-  [[entries.entries]]
-  title = "each year we do one three month project focusing on a specific vertical (prev w/ sequoiacap, forerunner...)"
-
-  [[entries.entries]]
-  title = "see fall 2022 group <a href='https://twitter.com/michelleqin_/status/1578110443595276288' target='_blank'>photo</a>"
+  title = "tight-knit group of undergraduate student founders, investors, and builders"
 
 
 [[entries]]
@@ -20,8 +14,3 @@ title = "current members"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
-
-  [[entries]]
-  title = 'Follow our quarterly update'
-  [[entries.entries]]
-  title = '<form method="POST" action="https://us-central1-svcc-379921.cloudfunctions.net/subscribe"><input name="email" placeholder="email"/><input type="submit"/></form>'
