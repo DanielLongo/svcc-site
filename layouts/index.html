@@ -8,6 +8,23 @@
     {{- end -}}
 </header>
 {{ .Content }}
-{{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
+{{- range $item := $.Site.Data.menu.entries }}
+<section>
+    <h2>{{ safeHTML $item.title }}</h2>
+    {{- with $item.entries }}
+    {{ partial "menu_item.html" (dict "context" $ "collection" .) }}
+    {{- end }}
+    {{- with $item.post_list }}
+    {{ partial "post_list.html" (dict
+        "context" $
+        "section" .section
+        "limit" .limit
+        "show_more" .show_more
+        "show_more_text" .show_more_text
+        "show_more_url" .show_more_url
+        ) }}
+    {{- end }}
+</section>
+{{- end }}
 
 {{ end }}
