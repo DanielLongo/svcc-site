@@ -29,7 +29,9 @@ enableRobotsTXT = true
     tabWidth = 4
 
 [params]
+  description = "tight-knit group of undergraduate student founders, investors, and builders"
   [params.theme_config]
+    show_description = true
     back_home_text = ".."
     date_format = "2006-01-02"
 
